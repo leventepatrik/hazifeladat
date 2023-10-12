@@ -1,0 +1,44 @@
+body{
+	background-color:lightblue;
+	color: blue;
+	font-size: 30px;
+	border-top: 10px;
+	margin:30px;
+	padding:px;
+}
+img.jobb{
+	width: 360px;
+	padding: 200px;
+	float: right;
+	margin:40xp;			
+}
+img.ball{
+	width: 350px;
+	padding: 200px;
+	float: ball;
+	margin:40xp;	
+}
+
+h1{ color: blue;
+	font-size: 30px;
+	font-family: sans-serif;
+	text-align  : center;
+	border-top:solid;
+	margin:30px;		
+}
+
+h2{
+	color:blue;
+	text-align: lef;
+	font-size:25px;	
+	border-top:solid;
+	margin:30px;
+}
+p{	
+	color:#548ec4;
+	margin:25px;
+	padding:35xp;
+	text-align:justify;
+}
+	
+	
